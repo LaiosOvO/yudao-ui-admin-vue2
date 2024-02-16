@@ -102,7 +102,7 @@
     "webpack-bundle-analyzer": "^3.9.0"
   },
   "engines": {
-    "node": ">= 10.13.0",
+"node": "^16.3.0",
     "npm": ">= 5.0.0"
   },
   "browserslist": [
